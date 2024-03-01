@@ -1,1 +1,1 @@
-# Gold-miner-vr
+# This project contains only source code
